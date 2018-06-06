@@ -1,0 +1,13 @@
+1) 
+
+	data e hora ->  "#!/bin/bash
+			 date +%r && date +%d && date +%b && date +%Y"
+
+	espaço livre e ocupado do HD -> df -l
+
+	espaço livre e ocupado na mem RAM -> free
+
+	listar todos os arquivos contidos na pasta Downloads -> entra na pasta Downloads e da ls ou cd Downloads/ e depois ls
+	
+	
+
